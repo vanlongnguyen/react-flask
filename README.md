@@ -6,5 +6,6 @@ Steps:
 3. npm install
 4. npm start
 5. npm run start-api
+6. open http://localhost:3000/
 
 Enjoy!
